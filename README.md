@@ -11,8 +11,7 @@ and visualization. The notebook covers multiple classification algorithms and pr
 
 comprehensive evaluation metrics and visualizations.
 
-## Classification Analysis App:
-https://pcaclassificationanalysis.streamlit.app/
+#APP LINK :- https://digitalpca-jv766vycp99j6y8hse5dp4.streamlit.app/
 
 ## 🚀 Features
 
